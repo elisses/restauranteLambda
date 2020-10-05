@@ -20,7 +20,7 @@ html {
 
 .wrap {
     max-width: 1600px;
-    background: url('img/menu.png') top no-repeat;
+    background: url('/img/menu.png') top no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     height: 726px;
@@ -160,7 +160,7 @@ html {
     text-align: center;
     padding: 30px;
     justify-content: center;
-    background: url('img/tema.png') top no-repeat;
+    background: url('/img/tema.png') top no-repeat;
     background-repeat: no-repeat;
     height: 600px;
     background-size: cover;
@@ -190,7 +190,7 @@ html {
 /*INGREDIENTS*/
 
 #ingredients {
-    background: url('img/fundo.png') top no-repeat;
+    background: url('/img/fundo.png') top no-repeat;
     background-repeat: no-repeat;
     height: 726px;
     background-size: cover;
@@ -234,7 +234,7 @@ html {
 /*MENU*/
 
 #menu {
-    background: url('img/tema.png') top no-repeat;
+    background: url('/img/tema.png') top no-repeat;
     background-repeat: no-repeat;
     height: 970px;
     background-size: cover;
@@ -326,7 +326,7 @@ html {
 /*REVIEWS*/
 
 #reviews {
-    background: url('img/food.png') top no-repeat;
+    background: url('/img/food.png') top no-repeat;
     background-repeat: no-repeat;
     height: 760px;
     background-size: cover;
@@ -383,7 +383,7 @@ q:after {
 
 /*RESERVATION*/
 #reservation {
-    background: url('img/tema.png') top no-repeat;
+    background: url('/img/tema.png') top no-repeat;
     background-repeat: no-repeat;
     height: 550px;
     background-size: cover;
